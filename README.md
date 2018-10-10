@@ -1,1 +1,1 @@
-# mnist_with_numpy
+# MNIST Classification with Numpy
